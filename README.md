@@ -1,2 +1,2 @@
 # DataVisualization
-Example of data visualization in python
+Examples of data visualization in python
